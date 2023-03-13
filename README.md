@@ -6,7 +6,7 @@
 
 ## Password Generator ##
 
-![Password Generator](<https://github.com/Ongoing-Knowledge-Scraping/Rock-Paper-Scissors/blob/main/Rock-Paper-Scissors.gif> "Running the code")
+![Password Generator](<https://github.com/Ongoing-Knowledge-Scraping/Password-Generator/blob/main/Password-Generator.gif> "Running the code")
 
 ## View on Replit ##
 
